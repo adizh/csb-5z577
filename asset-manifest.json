@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adizh.github.io/csb-5z577/static/css/main.917557ca.chunk.css",
+    "main.js": "https://adizh.github.io/csb-5z577/static/js/main.186d684c.chunk.js",
+    "main.js.map": "https://adizh.github.io/csb-5z577/static/js/main.186d684c.chunk.js.map",
+    "runtime-main.js": "https://adizh.github.io/csb-5z577/static/js/runtime-main.14ddb4cf.js",
+    "runtime-main.js.map": "https://adizh.github.io/csb-5z577/static/js/runtime-main.14ddb4cf.js.map",
+    "static/js/2.9f0bff27.chunk.js": "https://adizh.github.io/csb-5z577/static/js/2.9f0bff27.chunk.js",
+    "static/js/2.9f0bff27.chunk.js.map": "https://adizh.github.io/csb-5z577/static/js/2.9f0bff27.chunk.js.map",
+    "index.html": "https://adizh.github.io/csb-5z577/index.html",
+    "static/css/main.917557ca.chunk.css.map": "https://adizh.github.io/csb-5z577/static/css/main.917557ca.chunk.css.map",
+    "static/js/2.9f0bff27.chunk.js.LICENSE.txt": "https://adizh.github.io/csb-5z577/static/js/2.9f0bff27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14ddb4cf.js",
+    "static/js/2.9f0bff27.chunk.js",
+    "static/css/main.917557ca.chunk.css",
+    "static/js/main.186d684c.chunk.js"
+  ]
+}
